@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @rajesh-04102005
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me rajeshgirikadali@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👋 Hi, I’m Rajesh Giri Kadali (@rajesh-04102005)
 
-<!---
-rajesh-04102005/rajesh-04102005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m passionate about **software development, artificial intelligence, and machine learning**, with a strong interest in building real-world applications.
+
+🌱 I’m currently learning and improving my skills in **Python, Machine Learning, and Generative AI**, while exploring **Salesforce Agentforce** and backend development.
+
+💞️ I’m open to collaborating on **AI/ML projects, data-driven applications, and full-stack web development** projects.
+
+🚀 I enjoy working on projects involving **data preprocessing, model building, automation, and scalable web apps**.
+
+📫 How to reach me: **rajeshgirikadali@gmail.com**
+
+😄 Pronouns: **He/Him**
+
+⚡ Fun fact: I love turning complex problems into simple, working solutions through code.
+
+---
+✨ This repository is special because its `README.md` appears on my GitHub profile.
